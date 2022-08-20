@@ -1,1 +1,13 @@
-# Saco-de-dormir-bot-discord-habbo
+
+<br>
+<br>
+<br>
+Comando para usar el bot:
+<br>
+!saco .iroke.
+<br>
+<img src=" ">
+<br>
+Necesitas instalar python 3.7: https://www.python.org/downloads/release/python-370/
+<br>
+#obten un bot y un token en: https://discord.com/developers/applications
